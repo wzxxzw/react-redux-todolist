@@ -1,7 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
+## 基于reactjs 结合redux做成对的todolist demo, 特别适合新手学习
 In the project directory, you can run:
 
 ### `npm start`
